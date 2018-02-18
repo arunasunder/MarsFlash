@@ -1,0 +1,2 @@
+# MarsFlash
+Mars news updates
